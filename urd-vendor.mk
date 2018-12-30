@@ -285,7 +285,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_5_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_5_0.fw \
     vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_6_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_6_0.fw \
     vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_8_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_8_0.fw \
-    vendor/zte/urd/proprietary/vendor/lib/hw/camera.vendor.msm8952.so:system/vendor/lib/hw/camera.vendor.msm8952.so \
+    vendor/zte/urd/proprietary/vendor/lib/hw/camera.vendor.msm8952.so:system/vendor/lib/hw/camera.msm8952.so \
     vendor/zte/urd/proprietary/vendor/lib/libmm-qcamera.so:system/vendor/lib/libmm-qcamera.so \
     vendor/zte/urd/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/zte/urd/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
