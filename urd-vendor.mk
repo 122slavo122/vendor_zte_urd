@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/urd/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
     vendor/zte/urd/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
     vendor/zte/urd/proprietary/vendor/lib64/hw/fingerprint.goodix.so:system/vendor/lib64/hw/fingerprint.goodix.so \
+    vendor/zte/urd/proprietary/vendor/lib64/hw/fingerprint.synafp.default.so:system/vendor/lib64/hw/fingerprint.synafp.default.so \
     vendor/zte/urd/proprietary/vendor/lib64/hw/gps.default.so:system/vendor/lib64/hw/gps.default.so \
     vendor/zte/urd/proprietary/vendor/lib64/hw/gxfingerprint.default.so:system/vendor/lib64/hw/gxfingerprint.default.so \
     vendor/zte/urd/proprietary/vendor/lib64/libfp_client.so:system/vendor/lib64/libfp_client.so \
@@ -111,6 +112,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/urd/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/zte/urd/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/zte/urd/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/zte/urd/proprietary/vendor/bin/vfmService:system/vendor/bin/vfmService \
     vendor/zte/urd/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
     vendor/zte/urd/proprietary/vendor/firmware/libpn553_fw.so:system/vendor/firmware/libpn553_fw.so \
     vendor/zte/urd/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
